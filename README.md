@@ -11,15 +11,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![K-one's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kenshin1444&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenshin1444&layout=compact&theme=dark&hide_border=true)
-
-</div>
 
 ---
 
